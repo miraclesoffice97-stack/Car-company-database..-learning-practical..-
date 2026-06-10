@@ -37,7 +37,7 @@ INSERT INTO car_comp(id, cars, prices, quantity, stat) VALUES (uuid_generate_v4(
 
 INSERT INTO car_comp(id, cars, prices, quantity, stat) VALUES (uuid_generate_v4(), 'ferrari', 1600000.7897, 7, 'available');
 
-INSERT INTO car_comp(id, cars, prices, quantity, stat) VALUES (uuid_generate_v4(), 'G-wagon', 200000.0000, 0, 'available');
+INSERT INTO car_comp(id, cars, prices, quantity, stat) VALUES (uuid_generate_v4(), 'G-wagon', 200000.0000, 0, 'sold');
 --Inserting into history table
 
 INSERT INTO history (car, price, order_quantity) VALUES ('ferrari', 1600000.7897, 3);
