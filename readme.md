@@ -73,7 +73,7 @@ The following cars are inserted into the `car_comp` table:
 | Hyundai              | $189,000.00       | 12       | available |
 | Lamborghini          | $2,600,000.68     | 6        | available |
 | Ferrari              | $1,600,000.79     | 7        | available |
-| G-Wagon              | $200,000.00       | 0        | available |
+| G-Wagon              | $200,000.00       | 0        | sold |
 
 ---
 
